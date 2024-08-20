@@ -1,5 +1,6 @@
-langchain
-langchain-community
-streamlit
-python-dotenv
-youtube-transcript-api
+langchain==0.2.1
+langchain-cohere==0.1.5
+langchain-community==0.2.1
+streamlit==1.37.1
+python-dotenv==1.0.1
+youtube-transcript-api==0.6.2
