@@ -4,7 +4,6 @@ from dotenv import load_dotenv
 from langchain_community.chat_models import ChatCohere
 from youtube_transcript_api import YouTubeTranscriptApi
 from langchain.prompts import PromptTemplate
-from langchain.chains import LLMChain
 import requests
 
 load_dotenv()
